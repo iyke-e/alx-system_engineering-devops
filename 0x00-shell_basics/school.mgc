@@ -1,2 +1,2 @@
-0 string School SCHOOL thisisaschoolfile  thisisatextfile
-!:mime school
+0 string School thisisaschoolfile thisisatextfile
+!:mime school.mgc
